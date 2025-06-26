@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ionomics Hub Resecurrected</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Ionomics Hub Resecurrected</description>
+    <title>Ionomics Hub Resurrected</title>
+    <link>/</link>
+    <description>Recent content on Ionomics Hub Resurrected</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/homepage/</link>
+      <link>/homepage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/homepage/</guid>
+      <guid>/homepage/</guid>
       <description>&lt;h1 id=&#34;welcome-to-the-revamped-ionomics-hub&#34;&gt;Welcome to the revamped Ionomics hub&lt;/h1&gt;&#xA;&lt;p&gt;Text explaining what happened&lt;/p&gt;&#xA;&lt;p&gt;Arabidopsis files:&lt;/p&gt;&#xA;&lt;p&gt;File 1 Link&#xA;Description&lt;/p&gt;&#xA;&lt;p&gt;File 2 Link&#xA;Description&lt;/p&gt;&#xA;&lt;p&gt;File 3 Link&#xA;Description&lt;/p&gt;&#xA;&lt;p&gt;File 4 Link&#xA;Description&lt;/p&gt;&#xA;&lt;p&gt;File 5 Link&#xA;Description&lt;/p&gt;&#xA;&lt;p&gt;File Store&#xA;Table:&#xA;Old ID, DOI, Link to new file location, description&lt;/p&gt;&#xA;&lt;p&gt;Yeast&#xA;Link to Zscore table&lt;/p&gt;</description>
     </item>
   </channel>
